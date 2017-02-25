@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MikaE/hello_vue/issues"
   },
-  "homepage": "https://github.com/MikaE/hello_vue#readme"
+  "homepage": "https://github.com/MikaE/hello_vue#readme",
+	"browser": {
+		"vue": "vue/dist/vue.common"
+	}
 }
